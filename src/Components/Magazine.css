@@ -1,0 +1,96 @@
+.Magazine {
+    position: absolute;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue-5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 125px;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue-4{
+    margin-top: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 125px;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue-3 {
+    margin-top: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 125px;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue-2{
+    margin-top: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    bottom: 0px;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue-1{
+    margin-top: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    bottom: 0px;
+    left: 2rem;
+    right: 2rem;
+}
+
+.issue {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.buy-here {
+    margin-top: 6px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.buy-here:hover {
+  text-decoration: underline;
+  text-decoration-color:#FFF;
+}
+
+.or-in{
+    margin-top: 6px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.or-in span{
+    color: white;
+}
+
+.or-in span:hover {
+    text-decoration: underline;
+    text-decoration-color:#FFF;
+  }
+
+
+
+
+

@@ -1,0 +1,21 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 1.5rem;
+    left: 1rem;
+    right: 1rem;
+}
+
+.mail {
+    color: #251d20;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 25px;
+
+}
+
+.mail:hover {
+    text-decoration: underline;
+}

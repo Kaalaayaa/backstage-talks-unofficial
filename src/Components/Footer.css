@@ -1,0 +1,40 @@
+.Footer {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 1rem;
+    right: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 18px;
+    
+}
+
+.left {
+    width: 320px;
+    font-weight: bold;
+    color: #251d20;
+    line-height: 25px;
+}
+
+.description {
+    margin-bottom: 0;
+}
+
+.copyright {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.pp {
+    text-decoration: underline;
+}
+
+.right li{
+    list-style: none;
+    line-height: 1.6;
+}
+
+li:hover {
+    text-decoration: underline;
+}
