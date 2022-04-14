@@ -5,7 +5,6 @@ function Footer() {
 
   function myfun(ele){
     let offsetTop  = document.getElementById(ele).offsetTop;
-    var right = document.getElementById("#right");
     window.scrollTo({
       top: offsetTop-100, 
       behavior: "smooth"
